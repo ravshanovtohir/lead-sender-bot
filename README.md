@@ -4,14 +4,14 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## Description
-Lid sender to telegram bot - landing pagelarda kiritilganmalumotlarni telegram botga yuborish.
+Lead sender to telegram bot - landing pagelarda kiritilganmalumotlarni telegram botga yuborish.
 
 ## Installation
 
 1. **Repository** ni klonlash:
 2.  ```sh
-    git clone https://github.com/tohirdavrsmart/lid-sender-bot.git
-    cd lid-sender-bot
+    git clone https://github.com/ravshanovtohir/lead-sender-bot.git
+    cd lead-sender-bot
     ```
 
 2. **Dependencies** ni o'rnatish:
